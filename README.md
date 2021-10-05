@@ -1,7 +1,7 @@
 I. TCGA_HNSC input file
 tcga_hnsc_tpm_os.matrix.txt
-##Original RSEM data was downloaded at:
-http://gdac.broadinstitute.org/runs/stddata__2016_01_28/data/HNSC/20160128/gdac.broadinstitute.org_HNSC.Merge_rnaseqv2__illuminahiseq_rnaseqv2__unc_edu__Level_3__RSEM_genes__data.Level_3.2016012800.0.0.tar.gz
+(Original RSEM data was downloaded at:
+http://gdac.broadinstitute.org/runs/stddata__2016_01_28/data/HNSC/20160128/gdac.broadinstitute.org_HNSC.Merge_rnaseqv2__illuminahiseq_rnaseqv2__unc_edu__Level_3__RSEM_genes__data.Level_3.2016012800.0.0.tar.gz)
 
 
 II. GSE65858 input file
