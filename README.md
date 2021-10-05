@@ -6,8 +6,8 @@ http://gdac.broadinstitute.org/runs/stddata__2016_01_28/data/HNSC/20160128/gdac.
 
 II. GSE65858 input file
 GSE65858_exp.matrix.txt
-##original GSE65858 input file was downloaded at:
-https://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65858/matrix/GSE65858_series_matrix.txt.gz
+(original GSE65858 input file was downloaded at:
+https://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65858/matrix/GSE65858_series_matrix.txt.gz)
 
 
 III. to generate 15-gene signature score from TCGA-HNSC dataset:
