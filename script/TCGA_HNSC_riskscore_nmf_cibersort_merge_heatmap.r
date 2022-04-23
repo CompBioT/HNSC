@@ -10,7 +10,6 @@ library('ConsensusClusterPlus')
 library('ggthemes')
 
 setwd("working_dir")
-source('input/cibersort/Cibersort.R')
 GSE<-read.table("input/GSE65858_exp.matrix.txt",
                 sep = "\t",header = T,stringsAsFactors = F,check.names = F)
 
