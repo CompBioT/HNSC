@@ -24,7 +24,7 @@ https://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65858/matrix/GSE65858_series
 
 8. to generate ICI clustering result from TCGA-HNSC dataset:
 
-    TCGA_HNSC_cibersort.r
+    TCGA_HNSC_riskscore_nmf_cibersort_merge_heatmap.r
 
 9. to generate ICI clustering result from GSE65858 dataset:
 
